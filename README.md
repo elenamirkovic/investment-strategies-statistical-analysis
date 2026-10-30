@@ -89,12 +89,12 @@ These findings are specific to the selected financial instruments, observation p
 
 ## Technologies and Skills
 
-- **R Programming** — financial data processing and statistical analysis
-- **quantmod** — historical financial data retrieval
-- **Financial Time-Series Analysis** — logarithmic returns and rolling volatility
-- **Statistical Hypothesis Testing** — parametric and non-parametric tests
-- **Data Visualization** — histograms and boxplots
-- **Quantitative Finance** — systematic investment strategy evaluation
+- **R Programming** - financial data processing and statistical analysis
+- **quantmod** - historical financial data retrieval
+- **Financial Time-Series Analysis** - logarithmic returns and rolling volatility
+- **Statistical Hypothesis Testing** - parametric and non-parametric tests
+- **Data Visualization** - histograms and boxplots
+- **Quantitative Finance** - systematic investment strategy evaluation
 
 ## Repository Structure
 
@@ -155,4 +155,4 @@ The complete research paper, including theoretical background, methodology, stat
 **Elena Mirković & Mila Milenić**  
 Faculty of Mathematics, University of Belgrade
 
-Statistics Course Project — June 2026
+Statistics Course Project - June 2026
