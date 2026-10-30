@@ -146,7 +146,7 @@ The scripts use a reference period from June 2022 to June 2023 and a testing per
 
 The complete research paper, including theoretical background, methodology, statistical analysis, results, and conclusions, is available below:
 
-[Read the Full Research Report (PDF)](report/investment_strategies_report.pdf)
+[Read the Full Research Report (PDF)](report/Testiranje_investicionih_strategija-final 2.pdf)
 
 *The academic report is written in Serbian.*
 
